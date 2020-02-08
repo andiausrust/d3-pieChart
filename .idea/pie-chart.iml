@@ -7,5 +7,8 @@
     <orderEntry type="library" name="firebase-app" level="application" />
     <orderEntry type="library" name="firebase-firestore" level="application" />
     <orderEntry type="library" name="d3" level="application" />
+    <orderEntry type="library" name="d3-legend" level="application" />
+    <orderEntry type="library" name="d3.v5" level="application" />
+    <orderEntry type="library" name="d3-tip" level="application" />
   </component>
 </module>
